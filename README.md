@@ -95,7 +95,7 @@ Trabajé en un **equipo de 3-4 desarrolladores** en la rama frontend. Mi contrib
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Looperrrrrr/4giifts-gift-generator-app.git
+git clone https://github.com/asif-alam-dev/4giifts-gift-generator-app.git
 cd 4giifts-gift-generator-app
 
 # Instalar dependencias y crear entorno virtual
@@ -256,7 +256,7 @@ Este proyecto es parte de los materiales de **4Geeks Academy**.
 
 - **Email:** asif.covilha@gmail.com
 - **LinkedIn:** [in/asif-alam-973b7a146](https://www.linkedin.com/in/asif-alam-973b7a146/)
-- **GitHub:** [@Looperrrrrr](https://github.com/Looperrrrrr)
+- **GitHub:** [@asif-alam-dev](https://github.com/asif-alam-dev)
 
 ---
 
